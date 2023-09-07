@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .prettierrc
+jsconfig.json
 
 # testing
 /coverage

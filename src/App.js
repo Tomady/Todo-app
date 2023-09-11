@@ -19,7 +19,6 @@ function createBulkTodos() {
 
 const App = () => {
   const [todos, setTodos] = useState(createBulkTodos);
-
   const nextId = useRef(2501);
 
   const onInsert = useCallback(
